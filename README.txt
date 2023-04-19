@@ -1,2 +1,2 @@
-Hola, esto es un proyecto html sobre una layout responsive
-hecho con html divs y css media querys
+Hola, esto es un proyecto html sobre un layout responsive
+hecho con html divs y contenedores especificos como nav, header, etc; y css media querys
